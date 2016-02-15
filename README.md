@@ -1,24 +1,3 @@
-## README
+Rails 5 ActionCable Event Notifications
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Based on DHH's video on actioncable in Rails 5, this project is setup to notify users of events.
